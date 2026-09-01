@@ -8,6 +8,7 @@ function App() {
     const [name, setName] = useState("");
     const [role, setRole] = useState("");
     const [about, setAbout] = useState("");
+    
 
     return (
         <div className="app">
